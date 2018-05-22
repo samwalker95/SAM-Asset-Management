@@ -22,6 +22,22 @@
     "email": "support@coreui.io"
   },
   "license": "MIT",
+  "dependencies": {
+    "bycryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-lo1cal": "*"
+  },
   "author": {
     "name": "Łukasz Holeczek",
     "url": "http://holeczek.pl",
